@@ -1,0 +1,7 @@
+OrdiMutants is a collection mutants native to the bitcoin blockchain. The collection is focused on drawing attention to rare sats and parent/child inscriptions. The collection started out by mutating an older collection of apes for a community that was previously rugged by nefarious founders. Holders in this community were able to "clone" their apes using a biotoxic potion. The potions are inscribed as delegates to a massive 3d file inscribed on bitcoin and created by the legendary 3dEric. After this phase, the project moved on to a public mint, allowing new members to join the community.
+
+OrdiMutants is a community run project. The members can all voice their opinions and influence the direction of the project. The collection owns the copyrights to the art and is extending those rights to the holders of the inscriptions. As long as you hold the ordinal, you are free to use the art as you please.
+
+Due to the large average file size (45 kb) the cost to mint can range vastly and remains at the mercy of the mempool. When a mutant is minted, it is inscribed on a bundle of rare sats chosen randomly from an assortment of categories that was donated by the community. This includes silk road sats, vintage sats, hitman sats, pizza sats, block 666 sats, etc. Furthermore, the full sat range in the UTXO are rare satoshis and can be extracted in the future if so desired.
+
+The community is strong and growing organically. Whether its hosting spaces, creating art, or dropping alpha, the people involved in the project is truly what sets it apart.
